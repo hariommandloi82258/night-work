@@ -1,0 +1,29 @@
+.text-top{
+    font-size: 40px;
+}
+.d-text{
+    font-size: 60px;
+    margin-top: 40px;
+}
+.text-design
+{
+    font-size: 17px;
+    margin-top: -76px;
+    margin-left: 44px;
+    text-justify: auto;
+}
+.text-p{
+    font-size: 11px;
+    margin-top: 20px;
+    line-height: 2;
+    color: grey;
+    text-align: center;
+
+}
+.img-bottom{
+    height: 209px;
+    width: 100%;
+}
+.left-img-height{
+    height: 273px;
+}
